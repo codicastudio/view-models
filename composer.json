@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/viewmodels",
+    "name": "codica-studio/viewmodels",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/viewmodels",
+    "homepage": "https://github.com/codica-studio/viewmodels",
     "license": "MIT",
     "authors": [
         {
