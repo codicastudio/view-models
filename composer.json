@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/viewmodels",
+    "name": "codicastudio/view-models",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/viewmodels",
+    "homepage": "https://github.com/codicastudio/view-models",
     "license": "MIT",
     "authors": [
         {
@@ -45,6 +45,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
